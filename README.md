@@ -5,4 +5,4 @@
 - Generated the map of the place where data belongs to.
 - Generated heatmap of the user requesting for rides over the week.
 - Generated the hourly, day wise, weekly and monthly plots of user requests.
-- Although it was not tod in the data that to what place the data belong to, but still we were able to get the location of the place where data belongs to, *it was **Manhattan*** :trollface:.
+- Although it was not told in the data that to what place the data belongs to, but still I was able to get the location of the place where data belongs, *it was **Manhattan*** :trollface:.
